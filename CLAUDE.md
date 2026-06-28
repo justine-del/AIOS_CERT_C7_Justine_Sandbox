@@ -14,6 +14,7 @@ Edit this `CLAUDE.md` freely as your business and workflow evolve, it's your bra
 - **The PR reviewer has your back.** `.claude/skills/pr_review` reviews every PR, fixes safe issues, approves good work, and flags real risk. It never blocks you.
 - **When you're stuck, use the unstuck protocol** (`docs/UNSTUCK_PROTOCOL.md`): Claude in caveman mode → screenshot + AI → YouTube (last 1–2 months) → NotebookLM → escalate. You'll solve ~99% yourself.
 - **Lean beats bloated.** Add the high-impact core; look the specifics up as you go.
+- **Know the gating policy.** Which changes auto-merge, wait for a human, or are never allowed lives in `AIOS_CERT_C7_Justine_GateBrief.md`. Read it before editing the constitution, skills, or schemas.
 
 ## Your workspace
 `01_Foundations/` (your Foundational 6: market, avatar, offer, economics, pitch, profile) · `02_Deliverables/` · `03_Quality_Control/` · `04_Customer_Journey/` · `05_Assets/` · `06_Communication/` · `07_Setup/` · `08_Automations/` · `09_Archive/`. Add folders as you grow. File naming: lowercase, underscores, no spaces (`taxonomy_rules.md`).
